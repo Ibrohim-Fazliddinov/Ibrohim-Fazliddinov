@@ -15,14 +15,13 @@ A Django-based registration and login system using allauth.
 
 - **Programming Languages**: Python
 - **Frameworks**: Django
-- **Databases**: PostgreSQL, SQLite
-- **Tools and Technologies**: Git, REST API
+- **Tools and Technologies**: Git
 
 ## 🌱 Currently Learning
 
 - Django Rest Framework
 - Frontend technologies (HTML, CSS)
-- German, Spanish, and French languages
+- Docker
 
 ## 📚 Future Plans
 
@@ -32,9 +31,9 @@ A Django-based registration and login system using allauth.
 
 ## 📫 Contact Me
 
-- **Email**: your_email@example.com
+- **Email**: enavyk@gmail.com
 - **GitHub**: [Ibrohim-Fazliddinov](https://github.com/Ibrohim-Fazliddinov)
-- **LinkedIn**: [Your LinkedIn Profile](link)
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/ibrohim-fazliddinov-b1b9b527a/)
 
 ## 📈 GitHub Stats
 
