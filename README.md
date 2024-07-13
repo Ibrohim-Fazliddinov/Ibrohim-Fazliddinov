@@ -34,7 +34,7 @@ A Django-based registration and login system using allauth.
 - **Email**: enavyk@gmail.com
 - **GitHub**: [Ibrohim-Fazliddinov](https://github.com/Ibrohim-Fazliddinov)
 - **LinkedIn**: [MY LinkedIn Profile](https://www.linkedin.com/in/ibrohim-fazliddinov-b1b9b527a/)
-- **Telegram**: [My username](https://t.me/s/Carefree_WIsdom_Heart)
+- **Telegram**: [My Telegram](https://t.me/s/Carefree_WIsdom_Heart)
 
 ## 📈 GitHub Stats
 
