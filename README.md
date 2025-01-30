@@ -1,11 +1,7 @@
 
 <div align="center">
-    <h1>SOFTWARE ENGINEER FROM UZBEKISTAN!</h1>
-    <img src="https://github.com/user-attachments/assets/d761aa3d-a28b-42e4-9697-2ef9275f5d66" alt="Expension Image Reverend Insanity" height="500" width="1000">
+    <img src="https://github.com/user-attachments/assets/d761aa3d-a28b-42e4-9697-2ef9275f5d66" alt="Expension Image Reverend Insanity"  width="1000">
 </div>
-
-   
-    - I'm 16 y.o
 
 <!--<div align="center">
     <h1>LANGUAGE-FRAMEWORKS</h1>
