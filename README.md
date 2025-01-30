@@ -4,9 +4,6 @@
     <img src="https://github.com/user-attachments/assets/d761aa3d-a28b-42e4-9697-2ef9275f5d66" alt="Expension Image Reverend Insanity" height="400" width="1000">
 </div>
 
-
-
-   
     - i'm working on DjangoREST and FstAPI
     - Now i'm learning fastAPi ELK(STACK) + REDIS DOCKER AND GO LANGUAGE
     - I'm 16 y.o
@@ -15,8 +12,6 @@
     <h1>LANGUAGE-FRAMEWORKS</h1>
 </div>
 
-
-----
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
